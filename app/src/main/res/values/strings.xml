@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Peliculas</string>
+
+    <string name="peli1">Bee movie</string>
+    <string name="peli2">Akira</string>
+    <string name="peli3">Nemo</string>
+    <string name="peli4">Ready player one</string>
+    <string name="peli5">Top gun</string>
+
+    <string name="peli1_sinop">Pelicula de abejas salvando el mundo.</string>
+    <string name="peli2_sinop">Pelicula sobre los un chico que se "infecta" de una arma biologica despues de la tercera guerra mundial.</string>
+    <string name="peli3_sinop">Un pez buscando a su hijo perdido.</string>
+    <string name="peli4_sinop">Una persona quiere descubrir el ultimo mensaje del creador de un juego.</string>
+    <string name="peli5_sinop">Piloto de fuerzas aereas en una competencia.</string>
 </resources>
