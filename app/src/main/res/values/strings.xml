@@ -12,4 +12,28 @@
     <string name="peli3_sinop">Un pez buscando a su hijo perdido.</string>
     <string name="peli4_sinop">Una persona quiere descubrir el ultimo mensaje del creador de un juego.</string>
     <string name="peli5_sinop">Piloto de fuerzas aereas en una competencia.</string>
+
+    <string name="serie1">Game of thrones</string>
+    <string name="serie2">The walking dead</string>
+    <string name="serie3">The last kingdom</string>
+    <string name="serie4">Dr. house</string>
+    <string name="serie5">Malcom in the middle</string>
+
+    <string name="serie1_sinop">Personas peleando por el control de su reino.</string>
+    <string name="serie2_sinop">Serie de supervivencia de zombies.</string>
+    <string name="serie3_sinop">Un viking que quiere retomar su territorio en inglaterra.</string>
+    <string name="serie4_sinop">Doctor salvando vidas con problemas personales.</string>
+    <string name="serie5_sinop">La vida cotidiana del adolescente Malcom.</string>
+
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Peliculas</string>
+    <string name="menu_gallery">Series</string>
+    <string name="menu_slideshow">Favoritos</string>
 </resources>
